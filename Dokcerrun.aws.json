@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "862547479026.dkr.ecr.us-east-1.amazonaws.com/python-repo:latest",
+      "Name": "862547479026.dkr.ecr.us-east-1.amazonaws.com/devops_assignment:latest",
       "Update": "true"
     },
     "Ports": [
