@@ -1,4 +1,4 @@
-name: Deploy to EC2 and ECR 
+name: Deploy to EC2 and ECR # creation
 on:
   push:
     branches: 
